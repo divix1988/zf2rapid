@@ -9,16 +9,16 @@
     "zfrapid/zf2rapid-domain": "0.*",
     "zfcampus/zf-console": "dev-master",
     "zendframework/zend-code": "~3.0",
-    "zendframework/zend-config": "~3.0",
-    "zendframework/zend-db": "~3.0",
-    "zendframework/zend-filter": "~3.0",
-    "zendframework/zend-i18n": "~3.0",
-    "zendframework/zend-loader": "~3.0",
-    "zendframework/zend-modulemanager": "~3.0",
-    "zendframework/zend-mvc": "~3.0",
-    "zendframework/zend-servicemanager": "~3.0",
-    "zendframework/zend-version": "~3.0",
-    "zendframework/zend-view": "~3.0"
+    "zendframework/zend-config": "dev-master",
+    "zendframework/zend-db": "dev-master",
+    "zendframework/zend-filter": "dev-master",
+    "zendframework/zend-i18n": "dev-master",
+    "zendframework/zend-loader": "dev-master",
+    "zendframework/zend-modulemanager": "dev-master",
+    "zendframework/zend-mvc": "dev-master",
+    "zendframework/zend-servicemanager": "dev-master",
+    "zendframework/zend-version": "dev-master",
+    "zendframework/zend-view": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.7"
