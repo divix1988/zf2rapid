@@ -1,4 +1,4 @@
-# ZF2rapid
+# ZF3rapid
 
 Console application to create ZF2 application prototypes rapidly.
 
@@ -67,29 +67,5 @@ details.
  * For a more detailed step-by-step guide please see the [ZF2rapid Tutorial](docs/tutorial-create-project.md).
  * See the documentation of all commands in the [ZF2rapid Command-Guide](docs/command-guide.md).
 
-## Roadmap
 
-### Version 0.6.0
-
-* First public release (done)
-
-### Version 0.7.0
-
-* Add simple CRUD commands with DB connection (done)
-
-### Version 0.8.0
-
-* Write tests for ZF2rapid (wip)
-
-### Version 0.9.0
-
-* Add module inspections (todo)
-
-### Version 1.0.0
-
-* First stable release (todo)
-
-### Further plans
-
-* Support ZF3 MVC applications (todo)
-* Support ZF3 middleware applications (todo)
+* Support ZF3 MVC applications
