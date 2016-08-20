@@ -7,7 +7,7 @@
     "php": ">=5.5",
     "ext-intl" : "*",
     "zfrapid/zf2rapid-domain": "0.*",
-    "zfcampus/zf-console": "dev-master",
+    "zfcampus/zf-console": "^1.1.10",
     "zendframework/zend-code": "~2.5",
     "zendframework/zend-config": "~2.5",
     "zendframework/zend-db": "~2.5",
