@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ZF2rapid\\": "src/ZF3rapid"
+      "ZF2rapid\\": "src/ZF2rapid"
     }
   },
   "bin": ["bin/zf3rapid.php"]
