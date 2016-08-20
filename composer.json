@@ -8,6 +8,7 @@
     "ext-intl" : "*",
     "zfrapid/zf2rapid-domain": "0.*",
     "zfcampus/zf-console": "dev-master",
+    "zendframework/zend-mvc": "^3.0.1",
     "zendframework/zend-code": "~3.0",
     "zendframework/zend-config": "dev-master",
     "zendframework/zend-db": "dev-master",
@@ -15,7 +16,6 @@
     "zendframework/zend-i18n": "dev-master",
     "zendframework/zend-loader": "dev-master",
     "zendframework/zend-modulemanager": "dev-master",
-    "zendframework/zend-mvc": "^3.0.1",
     "zendframework/zend-servicemanager": "dev-master",
     "zendframework/zend-version": "dev-master",
     "zendframework/zend-view": "dev-master"
