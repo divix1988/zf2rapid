@@ -28,5 +28,5 @@
       "ZF2rapid\\": "src/ZF2rapid"
     }
   },
-  "bin": ["bin/zf3rapid.php"]
+  "bin": ["bin/zf2rapid.php"]
 }
